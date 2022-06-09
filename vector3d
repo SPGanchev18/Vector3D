@@ -68,7 +68,7 @@ void Vector3d::operator /=(const Vector3d& v) {
 int main() {
 
 
-
+//fatal error
 
 
 }
